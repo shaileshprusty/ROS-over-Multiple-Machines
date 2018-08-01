@@ -10,7 +10,7 @@ This manual explains the process for connecting ROS Nodes on multiple machines c
 
 ### Case 1: Using On-board ROS :-
 
-- **Configuring ROS master**: There should be only a single `master/ROS core` for handling the system. In this example, let the _comp1_ be the master. Hence, `roscore` is run on this computer.
+- **Configuring ROS master**: There should be only a single **master/ROS core** for handling the system. In this example, let the _comp1_ be the master. Hence, `roscore` is run on this computer.
 
   `comp1: $ roscore`
 
